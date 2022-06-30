@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Magda!</h1>
-<h3 align="center">Junior frontend developer 👩🏼‍💻 and yoga-girl 🧘‍♀️</h3>
+<h1>Hi 👋, I'm Magda!</h1>
+<h3>Junior frontend developer 👩🏼‍💻 and yoga-girl 🧘‍♀️</h3>
 
 - 📫 How to reach me **magdalena.szydlik@gmail.com**
 
